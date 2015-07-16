@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AUTH_GATEWAY REQUEST_ID="">
+    <TRANSACTION>
+        <TRANSACTION_ID></TRANSACTION_ID>
+        <MERCHANT>
+            <TERMINAL_ID></TERMINAL_ID>
+        </MERCHANT>
+        <PACKET>
+            <ACCOUNT>
+                <ROUTING_NUMBER></ROUTING_NUMBER>
+                <ACCOUNT_NUMBER></ACCOUNT_NUMBER>
+                <ACCOUNT_TYPE></ACCOUNT_TYPE>
+            </ACCOUNT>
+        </PACKET>
+    </TRANSACTION>
+</AUTH_GATEWAY>

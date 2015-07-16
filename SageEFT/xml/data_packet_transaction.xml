@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AUTH_GATEWAY REQUEST_ID="">
+  <TRANSACTION>
+    <TRANSACTION_ID></TRANSACTION_ID>
+    <MERCHANT>
+      <TERMINAL_ID></TERMINAL_ID>
+    </MERCHANT>
+    <PACKET>
+      <IDENTIFIER></IDENTIFIER>
+      <ACCOUNT>
+        <ROUTING_NUMBER></ROUTING_NUMBER>
+        <ACCOUNT_NUMBER></ACCOUNT_NUMBER>
+        <ACCOUNT_TYPE></ACCOUNT_TYPE>
+      </ACCOUNT>
+      <CONSUMER>
+        <FIRST_NAME></FIRST_NAME>
+        <LAST_NAME></LAST_NAME>
+        <ADDRESS1></ADDRESS1>
+        <ADDRESS2></ADDRESS2>
+        <CITY></CITY>
+        <STATE></STATE>
+        <ZIP></ZIP>
+        <PHONE_NUMBER></PHONE_NUMBER>
+        <DL_STATE></DL_STATE>
+        <DL_NUMBER></DL_NUMBER>
+        <COURTESY_CARD_ID></COURTESY_CARD_ID>
+        <IP_ADDRESS></IP_ADDRESS>
+      </CONSUMER>
+      <CHECK>
+        <CHECK_AMOUNT></CHECK_AMOUNT>
+      </CHECK>
+    </PACKET>
+  </TRANSACTION>
+</AUTH_GATEWAY>
